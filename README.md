@@ -29,8 +29,11 @@ Display current weather conditions including city name, date, weather icon, temp
 Display a 5-day forecast showing date, weather icon, temperature, humidity, and wind speed.
 Intuitive and easy-to-navigate user experience.
 Clean and polished user interface design.
-Credits
+
+#Credits
 This project was created as a challenge assignment for UC Berkeley Extension Coding Bootcamp.
 
+#Repository
+https://github.com/jmartincampos/Weather-Dashboard.git
 License
 This project is licensed under the MIT License.
