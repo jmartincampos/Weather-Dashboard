@@ -37,6 +37,8 @@ This project was created as a challenge assignment for UC Berkeley Extension Cod
 https://github.com/jmartincampos/Weather-Dashboard.git
 
 #Deployed 
- https://jmartincampos.github.io/Weather-Dashboard/
+https://jmartincampos.github.io/Weather-Dashboard/
+
+
 License
 This project is licensed under the MIT License.
